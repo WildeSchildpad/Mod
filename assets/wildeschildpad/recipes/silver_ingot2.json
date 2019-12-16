@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    
+    "key": 
+    {
+        "N":
+        {
+            "item": "wildeschildpad:silver_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wildeschildpad:silver_ingot"
+    }
+}

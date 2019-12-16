@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key": 
+    {
+        "B":
+        {
+            "item": "wildeschildpad:copper_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wildeschildpad:copper_ingot",
+        "count": 9
+    }
+}

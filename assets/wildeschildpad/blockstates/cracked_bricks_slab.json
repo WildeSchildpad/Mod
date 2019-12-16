@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "half=bottom,variant=default": { "model": "wildeschildpad:cracked_bricks_slab_bottom" },
+        "half=top,variant=default": { "model": "wildeschildpad:cracked_bricks_slab_top" }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "I I"
+    ],
+    
+    "key": 
+    {
+        "I":
+        {
+            "item": "wildeschildpad:silver_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wildeschildpad:silver_boots"
+    }
+}

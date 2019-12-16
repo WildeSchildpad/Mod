@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "wildeschildpad:double_cracked_bricks_slab" }
+    }
+}

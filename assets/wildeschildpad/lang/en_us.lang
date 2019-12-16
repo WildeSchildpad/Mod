@@ -1,0 +1,46 @@
+//Items
+item.copper_ingot.name=Copper Ingot
+item.silver_ingot.name=Silver Ingot
+item.copper_nugget.name=Copper Nugget
+item.silver_nugget.name=Silver Nugget
+
+
+//Blocks
+tile.copper_block.name=Copper Block
+tile.silver_block.name=Silver Block
+tile.cracked_bricks.name=Cracked Bricks
+tile.mossy_bricks.name=Mossy Bricks
+
+//Slabs
+tile.cracked_bricks_slab.name=Cracked Bricks Slab
+tile.cracked_bricks_slab_double.name=Double Cracked Bricks Slab
+
+
+//Tools
+item.copper_sword.name=Copper Sword
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_axe.name=Copper Axe
+item.copper_shovel.name=Copper Shovel
+item.copper_hoe.name=Copper Hoe
+
+item.silver_sword.name=Silver Sword
+item.silver_pickaxe.name=Silver Pickaxe
+item.silver_axe.name=Silver Axe
+item.silver_shovel.name=Silver Shovel
+item.silver_hoe.name=Silver Hoe
+
+
+//Armor
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+
+item.silver_helmet.name=Silver Helmet
+item.silver_chestplate.name=Silver Chestplate
+item.silver_leggings.name=Silver Leggings
+item.silver_boots.name=Silver Boots
+
+
+//Tabs
+itemGroup.wildeschildpad=WildeSchildpad Mod

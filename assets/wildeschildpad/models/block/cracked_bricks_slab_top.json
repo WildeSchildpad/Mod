@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildeschildpad:blocks/cracked_bricks",
+        "top": "wildeschildpad:blocks/cracked_bricks",
+        "side": "wildeschildpad:blocks/cracked_bricks"
+    }
+}

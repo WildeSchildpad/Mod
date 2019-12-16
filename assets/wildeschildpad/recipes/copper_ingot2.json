@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    
+    "key": 
+    {
+        "N":
+        {
+            "item": "wildeschildpad:copper_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wildeschildpad:copper_ingot"
+    }
+}
